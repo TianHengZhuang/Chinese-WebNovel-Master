@@ -37,35 +37,19 @@ Supported platforms:
 
 ---
 
+## Quick Start
+
+1. Open `SKILL.md`
+2. Load Planner Agent
+3. Generate Market Analysis
+4. Generate Story Architecture
+5. Generate Chapters
+6. Review with Editor Agent
+7. Prepare Publishing Package
+
 ### Multi-Agent Workflow
 
 Chinese WebNovel Master simulates a professional web novel production team.
-
-Workflow:
-
-User Request
-
-↓
-
-Planner Agent
-
-↓
-
-Architect Agent
-
-↓
-
-Writer Agent
-
-↓
-
-Editor Agent
-
-↓
-
-Publisher Agent
-
-Each agent focuses on a specific responsibility and passes optimized outputs to the next stage.
 
 ---
 
@@ -96,34 +80,36 @@ Generate:
 
 ## Architecture
 
-```text
-User Request
-      │
-      ▼
-Planner Agent
-      │
-      ▼
-Architect Agent
-      │
-      ▼
-Writer Agent
-      │
-      ▼
-Editor Agent
-      │
-      ▼
-Publisher Agent
+```mermaid
+flowchart TD
+
+A[User Request]
+--> B[Planner Agent]
+
+B --> C[Architect Agent]
+
+C --> D[Writer Agent]
+
+D --> E[Editor Agent]
+
+E --> F[Publisher Agent]
 ```
 
-## Documentation
+## Example Workflows
 
-Detailed documentation is available in the `docs/` directory.
+| Genre | Example |
+|--------|----------|
+| Urban System | [urban_system.md](examples/urban_system.md) |
+| Xianxia | [xianxia.md](examples/xianxia.md) |
+| Apocalypse | [apocalypse.md](examples/apocalypse.md) |
+| Romance | [romance.md](examples/romance.md) |
+
 
 | Document | Description |
-|-----------|-------------|
-| docs/quickstart.md | Getting started guide |
-| docs/architecture.md | System architecture |
-| docs/workflow.md | Full workflow guide |
+|----------|-------------|
+| [quickstart.md](docs/quickstart.md) | Getting Started Guide |
+| [architecture.md](docs/architecture.md) | System Architecture |
+| [workflow.md](docs/workflow.md) | Full Workflow Guide |
 
 ---
 
