@@ -1,5 +1,25 @@
 # Urban System Novel - Full Workflow Example
 
+## Workflow
+
+```text
+User Request
+    ↓
+Planner Agent
+    ↓
+Architect Agent
+    ↓
+Writer Agent
+    ↓
+Editor Agent
+    ↓
+Publisher Agent
+```
+
+This example demonstrates how Chinese WebNovel Master transforms a simple novel idea into a market-ready web novel package.
+
+---
+
 ## User Request
 
 写一本番茄风都市神豪系统小说。
