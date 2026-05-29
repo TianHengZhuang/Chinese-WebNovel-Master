@@ -1,1 +1,15 @@
-# Assets
+## Workflow
+
+```mermaid
+flowchart TD
+
+A[User Request]
+--> B[Planner Agent]
+
+B --> C[Architect Agent]
+
+C --> D[Writer Agent]
+
+D --> E[Editor Agent]
+
+E --> F[Publisher Agent]
