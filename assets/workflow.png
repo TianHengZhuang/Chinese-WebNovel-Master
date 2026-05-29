@@ -1,11 +1,12 @@
-User Request
-      ↓
-Planner Agent
-      ↓
-Architect Agent
-      ↓
-Writer Agent
-      ↓
-Editor Agent
-      ↓
-Publisher Agent
+flowchart TD
+
+A[User Request]
+--> B[Planner Agent]
+
+B --> C[Architect Agent]
+
+C --> D[Writer Agent]
+
+D --> E[Editor Agent]
+
+E --> F[Publisher Agent]
