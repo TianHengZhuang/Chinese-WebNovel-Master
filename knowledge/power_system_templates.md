@@ -1,574 +1,120 @@
 # Power System Templates
 
-Version: 1.0
+## Cultivation System
 
 Purpose:
 
-Maintain logical progression.
+Traditional xianxia progression.
 
-Prevent power inflation.
+Stages:
 
-Ensure satisfying growth.
+* Qi Refining
+* Foundation Establishment
+* Core Formation
+* Nascent Soul
+* Spirit Transformation
+* Immortal Ascension
 
----
+Core Principles:
 
-# Core Principles
-
-Power systems must provide:
-
-Progress
-
-Challenge
-
-Reward
-
-Hierarchy
-
-Consistency
+* Resources create advancement
+* Talent creates ceiling
+* Opportunities accelerate growth
 
 ---
 
-# Five Power Questions
+## System Flow
 
-Every system must answer:
+Purpose:
 
-1. How to become stronger?
+Modern progression fantasy.
 
-2. What limits growth?
+Mechanics:
 
-3. What resources are required?
+* Tasks
+* Rewards
+* Experience
+* Ranking
+* Achievement System
 
-4. How is strength measured?
+Strengths:
 
-5. What is the ultimate goal?
-
----
-
-# Progression Formula
-
-Weak
-
-↓
-
-Learn
-
-↓
-
-Practice
-
-↓
-
-Breakthrough
-
-↓
-
-Mastery
-
-↓
-
-Peak
-
-Never skip stages.
+* Fast progression
+* Clear goals
+* Strong reader satisfaction
 
 ---
 
-# Cultivation System Template
+## Magic System
 
-Example:
+Purpose:
 
-Mortal
+Fantasy world power structure.
 
-↓
+Components:
 
-Qi Refining
+* Mana Source
+* Spell Categories
+* Learning Method
+* Limitations
 
-↓
+Rule:
 
-Foundation Establishment
-
-↓
-
-Golden Core
-
-↓
-
-Nascent Soul
-
-↓
-
-Spirit Transformation
-
-↓
-
-Void Refinement
-
-↓
-
-Ascension
+Power requires cost.
 
 ---
 
-Rules:
+## Technology System
 
-Each realm should:
+Purpose:
 
-- Increase capability
-- Introduce new challenges
-- Change social status
-- Unlock new opportunities
+Sci-fi progression.
 
----
+Development Path:
 
-# Realm Design Formula
+* Mechanical
+* Information
+* Energy
+* Artificial Intelligence
+* Space Technology
 
-Every realm must contain:
+Progress Driver:
 
-Combat Difference
-
-Resource Requirement
-
-Social Position
-
-Special Ability
+Innovation.
 
 ---
 
-Example
+## Bloodline System
 
-Golden Core
+Purpose:
 
-Combat:
+Inherited power model.
 
-10x Foundation Establishment
+Components:
 
-Resource:
+* Bloodline Grade
+* Awakening
+* Mutation
+* Evolution
 
-Spirit Veins
+Conflict Sources:
 
-Status:
-
-Sect Elder
-
-Ability:
-
-Flight
-
----
-
-# Advancement Requirements
-
-Avoid:
-
-Leveling by time only.
-
-Require:
-
-Resources
-
-Experience
-
-Risk
-
-Opportunity
-
-Comprehension
+* Pure Blood vs Mixed Blood
+* Family Competition
+* Heritage Secrets
 
 ---
 
-# Resource System
+## Power System Checklist
 
-Examples:
+Every system should answer:
 
-Spirit Stones
+* How power is gained
+* How power is measured
+* How power is lost
+* What limits power
+* Why readers care
 
-Treasure Materials
+Rule:
 
-Rare Herbs
-
-Inheritance
-
-Bloodlines
-
-Artifacts
-
-Resources should be scarce.
-
-Scarcity creates conflict.
-
----
-
-# Talent System
-
-Model A
-
-Low
-
-Medium
-
-High
-
-Heavenly
-
-Divine
-
----
-
-Model B
-
-Growth Talent
-
-Can evolve.
-
----
-
-Model C
-
-Hidden Talent
-
-Appears later.
-
----
-
-# System Novel Template
-
-Weak User
-
-↓
-
-System Activation
-
-↓
-
-Tasks
-
-↓
-
-Rewards
-
-↓
-
-Growth
-
-↓
-
-Higher Challenges
-
-Repeat.
-
----
-
-Rules:
-
-Rewards should increase gradually.
-
-Never grant everything immediately.
-
----
-
-# Apocalypse Template
-
-Survivor
-
-↓
-
-Mutant
-
-↓
-
-Elite
-
-↓
-
-Commander
-
-↓
-
-King
-
-↓
-
-Legend
-
----
-
-Growth Sources:
-
-Mutation
-
-Resources
-
-Technology
-
-Training
-
-Special Events
-
----
-
-# High Martial Arts Template
-
-Ordinary Human
-
-↓
-
-Warrior
-
-↓
-
-Master
-
-↓
-
-Grandmaster
-
-↓
-
-King
-
-↓
-
-Saint
-
-↓
-
-Legend
-
----
-
-# Ability System Template
-
-Power Sources:
-
-Element
-
-Bloodline
-
-Technology
-
-Magic
-
-Mutation
-
-Artifacts
-
-Divinity
-
-Choose one primary source.
-
-Avoid mixing too many.
-
----
-
-# Skill Design
-
-Every skill requires:
-
-Strength
-
-Limitation
-
-Cost
-
-Counter
-
-Growth Potential
-
----
-
-Bad Skill
-
-Unlimited power
-
-No weakness
-
-No cost
-
----
-
-Good Skill
-
-Strong effect
-
-Clear drawback
-
-Strategic use
-
----
-
-# Ultimate Ability Rule
-
-Powerful abilities require:
-
-Preparation
-
-Cooldown
-
-Cost
-
-Risk
-
-Tradeoff
-
----
-
-Example
-
-Can destroy city
-
-Cost:
-
-Three months recovery
-
----
-
-# Enemy Scaling
-
-Avoid:
-
-Infinite stronger enemies.
-
-Use:
-
-Regional hierarchy
-
-Faction hierarchy
-
-Realm hierarchy
-
-World hierarchy
-
----
-
-# Progression Speed
-
-Recommended:
-
-First breakthrough:
-
-5-10 chapters
-
-Major breakthrough:
-
-20-50 chapters
-
-Realm transition:
-
-50-150 chapters
-
-Major power shift:
-
-100+ chapters
-
----
-
-# Combat Formula
-
-Power
-
-+
-
-Skill
-
-+
-
-Strategy
-
-+
-
-Resources
-
-=
-
-Outcome
-
-Power alone should not decide everything.
-
----
-
-# Power Inflation Warning
-
-Danger signs:
-
-One-shot everything
-
-No meaningful opponents
-
-No fear of failure
-
-Unlimited resources
-
-No consequences
-
----
-
-When detected:
-
-Introduce limits.
-
----
-
-# Long Novel Scaling
-
-0-100 Chapters
-
-Local influence
-
----
-
-100-300 Chapters
-
-Regional influence
-
----
-
-300-600 Chapters
-
-National influence
-
----
-
-600-1000 Chapters
-
-World influence
-
----
-
-1000+ Chapters
-
-Cosmic influence
-
----
-
-# Power Consistency Checklist
-
-□ Realm hierarchy exists
-
-□ Advancement requirements exist
-
-□ Resource scarcity exists
-
-□ Ability limitations exist
-
-□ Growth path exists
-
-□ Strong enemies exist
-
-□ Failure is possible
-
-□ Ultimate goal exists
-
-If any are missing:
-
-Revise system.
-
----
-
-# Final Principle
-
-Readers enjoy growth.
-
-Readers do not enjoy inflation.
-
-Growth without limits destroys tension.
-
-Always balance power with cost.
+Complexity should create possibilities, not confusion.
