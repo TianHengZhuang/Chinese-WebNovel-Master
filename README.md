@@ -115,6 +115,16 @@ Editor Agent
 Publisher Agent
 ```
 
+## Documentation
+
+Detailed documentation is available in the `docs/` directory.
+
+| Document | Description |
+|-----------|-------------|
+| docs/quickstart.md | Getting started guide |
+| docs/architecture.md | System architecture |
+| docs/workflow.md | Full workflow guide |
+
 ---
 
 ## Project Structure
