@@ -2,18 +2,19 @@
 
 ## Workflow
 
-```text
-User Request
-    ↓
-Planner Agent
-    ↓
-Architect Agent
-    ↓
-Writer Agent
-    ↓
-Editor Agent
-    ↓
-Publisher Agent
+```mermaid
+flowchart TD
+
+A[User Request]
+--> B[Planner Agent]
+
+B --> C[Architect Agent]
+
+C --> D[Writer Agent]
+
+D --> E[Editor Agent]
+
+E --> F[Publisher Agent]
 ```
 
 This example demonstrates how Chinese WebNovel Master transforms a simple novel idea into a market-ready web novel package.
