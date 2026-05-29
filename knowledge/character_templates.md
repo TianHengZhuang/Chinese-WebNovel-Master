@@ -1,357 +1,118 @@
-# Character Bible System
+# Character Templates
 
-Version: 1.0
+## Protagonist Template
 
 Purpose:
+Drive the story forward.
 
-Maintain character consistency across long-form novels.
+Elements:
 
-Every important character must have a Character Bible.
+* Core Desire
+* External Goal
+* Internal Need
+* Fatal Flaw
+* Hidden Strength
+* Growth Arc
 
-Never generate major characters without completing this template.
+Questions:
 
----
-
-# Character Structure
-
-Every character contains:
-
-Identity
-
-Personality
-
-Motivation
-
-Fear
-
-Weakness
-
-Relationships
-
-Secrets
-
-Growth Path
-
-Story Function
+* What does the protagonist want?
+* Why can't they get it?
+* What must they become to succeed?
 
 ---
 
-# Basic Template
+## Antagonist Template
 
-Name:
+Purpose:
+Create meaningful opposition.
 
-Gender:
+Elements:
 
-Age:
+* Goal
+* Resources
+* Power Base
+* Motivation
+* Weakness
 
-Occupation:
+Rules:
 
-Appearance:
-
-First Appearance:
-
-Current Status:
-
----
-
-# Personality Template
-
-Primary Traits:
-
-Secondary Traits:
-
-Strengths:
-
-Flaws:
-
-Behavior Style:
-
-Speech Style:
-
-Decision Style:
+* Antagonists believe they are right.
+* Antagonists must have understandable motives.
 
 ---
 
-Example
+## Mentor Template
 
-Primary Traits:
+Purpose:
+Guide the protagonist.
 
-Calm
-Decisive
+Elements:
 
-Secondary Traits:
+* Knowledge
+* Secret
+* Limitation
+* Teaching Style
 
-Suspicious
-Independent
+Common Functions:
 
-Strengths:
-
-High self-control
-
-Flaws:
-
-Trust issues
+* Introduce the world
+* Explain power systems
+* Trigger growth
 
 ---
 
-# Motivation Template
+## Rival Template
 
-What does the character want?
+Purpose:
+Create competition.
 
-Short-Term Goal:
+Elements:
 
-Mid-Term Goal:
+* Similar Goal
+* Different Method
+* Constant Comparison
 
-Long-Term Goal:
+Benefits:
 
-Ultimate Desire:
-
----
-
-# Fear Template
-
-What does the character avoid?
-
-Examples:
-
-Failure
-
-Death
-
-Abandonment
-
-Exposure
-
-Loss of control
+* Motivates protagonist
+* Creates tension
+* Shows growth
 
 ---
 
-# Weakness Template
+## Love Interest Template
 
-No important character should be flawless.
+Purpose:
+Create emotional engagement.
 
-Possible weaknesses:
+Elements:
 
-Arrogance
+* Attraction
+* Conflict
+* Compatibility
+* Emotional Stakes
 
-Greed
+Rules:
 
-Impulsiveness
-
-Naivety
-
-Emotional dependence
-
-Obsession
-
----
-
-# Relationship Template
-
-Track every important relationship.
-
-Format:
-
-Character:
-
-Relationship Type:
-
-Trust Level:
-
-Current Status:
-
-Future Direction:
+* Romance should affect the plot.
+* Relationship must evolve.
 
 ---
 
-# Secret Template
+## Supporting Character Template
 
-Every important character should have:
+Purpose:
+Strengthen the main cast.
 
-At least one secret.
+Functions:
 
-Examples:
+* Ally
+* Comic Relief
+* Informant
+* Specialist
+* Emotional Support
 
-Hidden identity
+Rule:
 
-Past crime
-
-Hidden power
-
-Family secret
-
-Unknown mission
-
----
-
-# Growth Path Template
-
-Starting Point
-
-↓
-
-Turning Point
-
-↓
-
-Crisis
-
-↓
-
-Transformation
-
-↓
-
-Maturity
-
----
-
-# Story Function
-
-Every character must serve a purpose.
-
-Possible functions:
-
-Protagonist
-
-Mentor
-
-Rival
-
-Villain
-
-Love Interest
-
-Comic Relief
-
-Strategist
-
-Guardian
-
-Catalyst
-
----
-
-# Protagonist Template
-
-Requirements:
-
-Clear Goal
-
-Visible Growth
-
-Unique Advantage
-
-Strong Motivation
-
-Personal Weakness
-
-Moral Boundary
-
----
-
-# Villain Template
-
-Bad Villain:
-
-Pure evil
-
-No logic
-
-No motivation
-
----
-
-Good Villain:
-
-Competent
-
-Intelligent
-
-Goal-driven
-
-Dangerous
-
-Understandable
-
----
-
-# Character Consistency Rules
-
-Before every chapter:
-
-Check:
-
-Motivation
-
-Personality
-
-Relationship
-
-Knowledge
-
-Status
-
-If actions contradict:
-
-Provide explanation.
-
-Otherwise:
-
-Revise.
-
----
-
-# Character Memory Record
-
-Track:
-
-Current Goal
-
-Current Emotion
-
-Current Relationships
-
-Current Resources
-
-Current Knowledge
-
-Current Secrets
-
-Update after every major event.
-
----
-
-# Character Quality Checklist
-
-□ Clear goal
-
-□ Clear motivation
-
-□ Clear weakness
-
-□ Clear fear
-
-□ Relationship network
-
-□ Growth path
-
-□ Story function
-
-□ Secret exists
-
-□ Consistent behavior
-
-If any item is missing:
-
-Character is incomplete.
-
----
-
-# Final Principle
-
-Readers remember characters.
-
-Not plots.
-
-Strong characters create strong stories.
+Every supporting character should serve at least one story function.
