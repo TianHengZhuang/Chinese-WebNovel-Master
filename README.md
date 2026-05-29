@@ -1,5 +1,7 @@
 # Chinese WebNovel Master
 
+![Workflow](assets/Chinese%20WebNovel.png)
+
 > Don't just write novels. Engineer reader addiction.
 
 Chinese WebNovel Master is a specialized AI writing system designed for Chinese web fiction.
