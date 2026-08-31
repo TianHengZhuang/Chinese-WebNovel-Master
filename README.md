@@ -36,6 +36,14 @@ Supported platforms:
 * Qidian (起点中文网)
 * Feilu (飞卢小说网)
 * Jinjiang (晋江文学城)
+* Qimao (七猫小说)
+* Zongheng (纵横中文网)
+* Ciweimao (刺猬猫)
+* Boluobao (菠萝包轻小说)
+* Xiaoxiang (潇湘书院)
+* Hongxiu (红袖添香)
+* 17K (17K小说网)
+* Tadu (塔读文学)
 
 ---
 
@@ -161,6 +169,14 @@ Chinese-WebNovel-Master/
 | qidian_patterns.md   | Qidian reader behavior           |
 | feilu_patterns.md    | Feilu commercial patterns        |
 | jinjiang_patterns.md | Female-oriented fiction patterns |
+| qimao_patterns.md    | Qimao free-reading ad model and fast pacing       |
+| zongheng_patterns.md | Zongheng paid subscription and long serialization |
+| ciweimao_patterns.md | Ciweimao ACG community and concept-driven fiction |
+| boluobao_patterns.md | Boluobao light novel romance and comedy           |
+| xiaoxiang_patterns.md | Xiaoxiang female-oriented ancient and modern romance |
+| hongxiu_patterns.md  | Hongxiu contemporary emotional fiction            |
+| 17k_patterns.md      | 17K all-genre stable serialization                |
+| tadu_patterns.md     | Tadu suspense and short-form quality              |
 
 ### Writing Frameworks
 
