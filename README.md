@@ -331,3 +331,6 @@ MIT License
 ## Acknowledgements
 
 Built for creators who want to master Chinese web fiction production using AI.
+
+---
+> 版本标记 v2.0.1：自动化协作流程验证（2026-09-04）
