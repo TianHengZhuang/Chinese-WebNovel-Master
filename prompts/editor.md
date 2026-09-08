@@ -146,6 +146,38 @@ Ending Strength
 
 ---
 
+Step 7
+
+Check Story Bible Compliance
+
+Reference:
+
+tools/story_bible.md
+
+tools/character_arc_tracker.md
+
+Verify against the bible:
+
+Character behavior matches Current Status
+
+Power usage respects established rules
+
+Locations are consistent
+
+New setups are logged in the Foreshadow Ledger
+
+Character movement is logged with a cause and a cost
+
+Flags to report:
+
+DRIFT
+
+UNMOTIVATED
+
+CHEAT
+
+---
+
 ## Retention Analysis
 
 Score:

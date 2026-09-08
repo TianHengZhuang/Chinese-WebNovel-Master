@@ -308,6 +308,41 @@ Long-form:
 
 ---
 
+## Story Bible Sync
+
+Reference:
+
+tools/story_bible.md
+
+Before writing every chapter:
+
+Load the story bible.
+
+Verify:
+
+- Protagonist state matches the end of the last chapter
+- Relevant pending foreshadow entries
+- Location and faction status
+
+While writing:
+
+Never contradict the bible.
+
+After writing:
+
+Update:
+
+- Continuity Log
+- Character Current Status
+- Power System State
+- Foreshadow Ledger (new setups added, paid entries marked)
+
+If the bible must change:
+
+Explain the change in the Continuity Log before writing further.
+
+---
+
 ## Retention Checklist
 
 Before output:

@@ -1,5 +1,71 @@
 # Roadmap
 
-v1.1 Core framework
-v1.2 Knowledge expansion
-v2.0 Retention engine
+Chinese WebNovel Master evolution plan.
+
+## Released
+
+### v1.0 — Core Framework
+
+- Multi-agent workflow (Planner → Architect → Writer → Editor → Publisher)
+- Core knowledge base
+- Example projects
+- Tag: V1.0.0
+
+### v1.1 — Knowledge Expansion
+
+- Expanded platform patterns
+- Improved examples
+- Enhanced publishing workflows
+
+### v2.0 — Retention Engine
+
+- Automated evaluation mindset
+- Reader retention scoring
+- Platform-specific optimization engines
+
+### v2.0.1 — Collaboration Validation (2026-09-04)
+
+- Automated collaboration workflow validated end-to-end
+- 8 additional platform knowledge bases (qimao, zongheng, ciweimao, boluobao, xiaoxiang, hongxiu, 17k, tadu)
+
+### v2.1.0 — Consistency Layer (2026-09-08)
+
+- tools/story_bible.md: single source of truth for cross-chapter consistency (characters, power state, factions, foreshadow ledger, continuity log)
+- tools/golden_three_reviewer.md: first-three-chapters audit with GO / REVISE / REWRITE verdicts
+- tools/pacing_rhythm_map.md: satisfaction-density mapping over the ten-chapter engine
+- tools/character_arc_tracker.md: arc health flags (STATIC / UNMOTIVATED / DRIFT / CHEAT / FLAT)
+- 4 genre knowledge bases: sci-fi, suspense, game/system, era fiction
+- Writer & Editor agents bound to the story bible sync protocol
+- CHANGELOG.md introduced
+
+## Planned
+
+### v2.2 — Serialization Operations
+
+- Publishing calendar generation
+- Reader retention analysis across published chapters
+- Cliffhanger continuity checks for serialized releases
+
+### v2.3 — Author Voice Layer
+
+- Style sampling: learn from an author's existing chapters
+- Custom style profiles (tone, sentence rhythm, taboo list)
+- AI-flavor removal strengthened with style fingerprints
+
+### v2.4 — Submission Automation
+
+- Platform-specific submission checklists
+- Metadata packs (title, tags, synopsis variants) per target platform
+- Launch chapter batch (3-10 chapters) review workflow
+
+### v2.5 — Genre Expansion
+
+- Historical / dynasty fiction patterns
+- Urban supernatural patterns
+- Detective + era cross-genre patterns
+
+### Long-Term
+
+- Bilingual operation mode (Chinese content, bilingual author guidance)
+- Community templates for reader-poll driven writing
+- Full series management dashboard (characters, arcs, foreshadow across 1000+ chapters)

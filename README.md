@@ -132,16 +132,12 @@ Chinese-WebNovel-Master/
 ├── SKILL.md
 ├── LICENSE
 ├── ROADMAP.md
+├── CHANGELOG.md
 
 ├── knowledge/
-│   ├── tomato_patterns.md
-│   ├── qidian_patterns.md
-│   ├── feilu_patterns.md
-│   ├── jinjiang_patterns.md
-│   ├── title_patterns.md
-│   ├── suspense_hooks.md
-│   ├── character_templates.md
-│   └── power_system_templates.md
+│   ├── Platform patterns (12): qidian, tomato, feilu, jinjiang, qimao, zongheng, ciweimao, boluobao, xiaoxiang, hongxiu, 17k, tadu
+│   ├── Writing frameworks: title_patterns, suspense_hooks, character_templates, power_system_templates
+│   └── Genre patterns: genre_scifi, genre_suspense, genre_game, genre_era
 
 ├── prompts/
 │   ├── planner.md
@@ -149,6 +145,14 @@ Chinese-WebNovel-Master/
 │   ├── writer.md
 │   ├── editor.md
 │   └── publisher.md
+
+├── tools/
+│   ├── hook_generator.md
+│   ├── retention_analyzer.md
+│   ├── story_bible.md
+│   ├── golden_three_reviewer.md
+│   ├── pacing_rhythm_map.md
+│   └── character_arc_tracker.md
 
 ├── examples/
 │   ├── urban_system.md
@@ -186,6 +190,15 @@ Chinese-WebNovel-Master/
 | suspense_hooks.md         | Chapter retention hooks          |
 | character_templates.md    | Character construction templates |
 | power_system_templates.md | Power system design templates    |
+
+### Genre Patterns
+
+| File | Purpose |
+| ------------------------- | --------------------------------- |
+| genre_scifi_patterns.md   | Sci-fi expectations, tech discipline, scale ladder |
+| genre_suspense_patterns.md | Mystery architecture, fair-play reversals, clue discipline |
+| genre_game_patterns.md    | System-flow panels, quest chains, cost mechanics |
+| genre_era_patterns.md     | Era coordinates, period texture, era advantage rules |
 
 ---
 
@@ -229,6 +242,19 @@ Demonstrates:
 * Emotional hooks
 * Character chemistry
 * Reader retention techniques
+
+---
+
+## Tools
+
+| Tool | When To Use |
+|------|-------------|
+| [hook_generator.md](tools/hook_generator.md) | Generate chapter-end hooks |
+| [retention_analyzer.md](tools/retention_analyzer.md) | Score retention of drafted chapters |
+| [story_bible.md](tools/story_bible.md) | Maintain cross-chapter consistency |
+| [golden_three_reviewer.md](tools/golden_three_reviewer.md) | Audit the first three chapters |
+| [pacing_rhythm_map.md](tools/pacing_rhythm_map.md) | Map satisfaction density and rhythm |
+| [character_arc_tracker.md](tools/character_arc_tracker.md) | Track character arc health |
 
 ---
 
@@ -302,23 +328,14 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-### v1.0
+Current: v2.1.0 (2026-09-08)
 
-* Core multi-agent workflow
-* Knowledge base
-* Example projects
+* v1.0 — Core multi-agent workflow and knowledge base
+* v1.1 — Expanded platform knowledge and publishing workflows
+* v2.0 — Retention engine: automated evaluation and retention scoring
+* v2.1 — Consistency layer: story bible, 3 new writing tools, 4 genre knowledge bases
 
-### v1.1
-
-* Expanded platform knowledge
-* Improved examples
-* Enhanced publishing workflows
-
-### v2.0
-
-* Automated evaluation
-* Reader retention scoring
-* Platform-specific optimization engines
+See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ---
 
@@ -333,4 +350,5 @@ MIT License
 Built for creators who want to master Chinese web fiction production using AI.
 
 ---
+> 版本标记 v2.1.0：一致性层升级（story bible + 3 写作工具 + 4 题材知识库）（2026-09-08）
 > 版本标记 v2.0.1：自动化协作流程验证（2026-09-04）

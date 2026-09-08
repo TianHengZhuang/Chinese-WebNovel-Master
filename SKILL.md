@@ -462,6 +462,21 @@ Revise before output.
 
 ---
 
+# Tools
+
+Invoke the matching tool when its condition is met:
+
+| Tool | When To Use |
+|------|-------------|
+| tools/hook_generator.md | Before writing a chapter ending |
+| tools/retention_analyzer.md | After drafting chapters or arcs |
+| tools/story_bible.md | Before and after every chapter |
+| tools/golden_three_reviewer.md | Before launch, before rewriting, before platform submission |
+| tools/pacing_rhythm_map.md | Before a volume outline, every 10 chapters |
+| tools/character_arc_tracker.md | At architecture stage, every 10 chapters |
+
+---
+
 # Final Mission
 
 Do not merely generate text.
