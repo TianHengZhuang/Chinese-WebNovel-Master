@@ -2,6 +2,16 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.1.1] - 2026-09-08
+
+### Added
+
+- knowledge/genre_historical_patterns.md — historical/time-travel: era research discipline, knowledge-advantage rules, status progression ladder, 6 sub-variants
+- knowledge/genre_urban_supernatural_patterns.md — urban system: 7 system types (天选/任务/升级/职业/合成/天赋/规则), 7 sub-variants, 4-stage progression ladder
+- knowledge/genre_romance_patterns.md — romance: 6-stage relationship arc, 8 sub-variants, female/male protagonist empowerment patterns
+- knowledge/genre_mythology_patterns.md — mythological/xuanhuan: 6 power system types, world layer structure (世俗界→混沌虚空), sect politics, tribulation architecture, 7 sub-variants
+- README.md — updated structure tree and genre patterns table (16 platform + 8 genre coverage)
+
 ## [v2.1.0] - 2026-09-08
 
 ### Added

@@ -137,7 +137,11 @@ Chinese-WebNovel-Master/
 ├── knowledge/
 │   ├── Platform patterns (12): qidian, tomato, feilu, jinjiang, qimao, zongheng, ciweimao, boluobao, xiaoxiang, hongxiu, 17k, tadu
 │   ├── Writing frameworks: title_patterns, suspense_hooks, character_templates, power_system_templates
-│   └── Genre patterns: genre_scifi, genre_suspense, genre_game, genre_era
+│   ├── Genre patterns: genre_scifi, genre_suspense, genre_game, genre_era
+│   │   ├── genre_historical_patterns.md
+│   │   ├── genre_urban_supernatural_patterns.md
+│   │   ├── genre_romance_patterns.md
+│   │   └── genre_mythology_patterns.md
 
 ├── prompts/
 │   ├── planner.md
@@ -199,6 +203,10 @@ Chinese-WebNovel-Master/
 | genre_suspense_patterns.md | Mystery architecture, fair-play reversals, clue discipline |
 | genre_game_patterns.md    | System-flow panels, quest chains, cost mechanics |
 | genre_era_patterns.md     | Era coordinates, period texture, era advantage rules |
+| genre_historical_patterns.md | Historical/time-travel: era research, knowledge-advantage rules |
+| genre_urban_supernatural_patterns.md | Urban system panels, 7 system types, progression ladder |
+| genre_romance_patterns.md | Romance relationship arcs, 8 sub-variants, emotional resonance |
+| genre_mythology_patterns.md | Mythological/cultivation world-building, power scales, sect politics |
 
 ---
 
