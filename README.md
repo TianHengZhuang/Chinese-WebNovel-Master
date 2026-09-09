@@ -4,9 +4,9 @@
 
 > Don't just write novels. Engineer reader addiction.
 
-Chinese WebNovel Master is a specialized AI writing system designed for Chinese web fiction.
+Chinese WebNovel Master is a specialized writing workflow system designed for Chinese web fiction.
 
-Unlike traditional writing assistants, it focuses on the complete commercial web novel workflow:
+Unlike traditional writing tools, it focuses on the complete commercial web novel workflow:
 
 * Market Analysis
 * Story Planning
@@ -49,13 +49,12 @@ Supported platforms:
 
 ## Quick Start
 
-1. Open `SKILL.md`
-2. Load Planner Agent
-3. Generate Market Analysis
-4. Generate Story Architecture
-5. Generate Chapters
-6. Review with Editor Agent
-7. Prepare Publishing Package
+1. Start with [SKILL.md](SKILL.md), the entry point for the workflow.
+2. Use the Planner role to prepare a market analysis and story architecture.
+3. Draft chapters with the Writer role, then run the Editor review.
+4. Use the Publisher role to prepare the title, synopsis, tags, and launch package.
+
+For an example, begin with a genre from [examples](examples) and follow the full [workflow guide](docs/workflow.md).
 
 ### Multi-Agent Workflow
 
@@ -318,7 +317,7 @@ Responsible for:
 
 ## Why Chinese WebNovel Master?
 
-Most AI writing tools optimize for writing quality.
+Most writing tools optimize for writing quality.
 
 Chinese WebNovel Master optimizes for:
 
@@ -336,12 +335,13 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.1.0 (2026-09-08)
+Current: v2.1.1 (2026-09-08)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
 * v2.0 — Retention engine: automated evaluation and retention scoring
 * v2.1 — Consistency layer: story bible, 3 new writing tools, 4 genre knowledge bases
+* v2.1.1 — Expanded genre knowledge for historical fiction, urban supernatural, romance, and mythology
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -355,7 +355,7 @@ MIT License
 
 ## Acknowledgements
 
-Built for creators who want to master Chinese web fiction production using AI.
+Built for creators who want a repeatable Chinese web-fiction production workflow.
 
 ---
 > 版本标记 v2.1.0：一致性层升级（story bible + 3 写作工具 + 4 题材知识库）（2026-09-08）
