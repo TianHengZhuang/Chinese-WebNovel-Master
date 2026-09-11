@@ -132,6 +132,7 @@ Chinese-WebNovel-Master/
 ├── LICENSE
 ├── ROADMAP.md
 ├── CHANGELOG.md
+├── CONTRIBUTING.md
 
 ├── knowledge/
 │   ├── Platform patterns (12): qidian, tomato, feilu, jinjiang, qimao, zongheng, ciweimao, boluobao, xiaoxiang, hongxiu, 17k, tadu
@@ -152,10 +153,13 @@ Chinese-WebNovel-Master/
 ├── tools/
 │   ├── hook_generator.md
 │   ├── retention_analyzer.md
+│   ├── title_scorer.md
 │   ├── story_bible.md
 │   ├── golden_three_reviewer.md
 │   ├── pacing_rhythm_map.md
-│   └── character_arc_tracker.md
+│   ├── character_arc_tracker.md
+│   ├── publishing_calendar.md
+│   └── cliffhanger_continuity_checker.md
 
 ├── examples/
 │   ├── urban_system.md
@@ -206,6 +210,20 @@ Chinese-WebNovel-Master/
 | genre_urban_supernatural_patterns.md | Urban system panels, 7 system types, progression ladder |
 | genre_romance_patterns.md | Romance relationship arcs, 8 sub-variants, emotional resonance |
 | genre_mythology_patterns.md | Mythological/cultivation world-building, power scales, sect politics |
+
+### Tools
+
+| File | Purpose |
+| ------------------------- | --------------------------------- |
+| hook_generator.md | Chapter-ending hook generation: 8 hook types, escalation ladder |
+| retention_analyzer.md | Weighted retention scoring and failure diagnostics |
+| title_scorer.md | Five-dimension title scoring for click-through |
+| story_bible.md | Cross-chapter consistency ledger |
+| golden_three_reviewer.md | First-three-chapter audit with GO / REVISE / REWRITE |
+| pacing_rhythm_map.md | Satisfaction-density mapping over the ten-chapter engine |
+| character_arc_tracker.md | Arc health flags |
+| publishing_calendar.md | Serialized release cadence and backlog planning |
+| cliffhanger_continuity_checker.md | Hook debt, variety and escalation audit |
 
 ---
 

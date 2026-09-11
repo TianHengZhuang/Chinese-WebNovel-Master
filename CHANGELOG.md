@@ -2,6 +2,29 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.2.0] - 2026-09-11
+
+### Added
+
+- tools/publishing_calendar.md — serialized release planning: update cadence, backlog safety line, launch and break strategy, risk table
+- tools/cliffhanger_continuity_checker.md — hook debt ledger, hook variety grid, escalation audit with CONTINUE / FIX ENDINGS / RESTRUCTURE verdicts
+- tools/title_scorer.md — five-dimension title scoring (curiosity, identity advantage, conflict, concreteness, platform fit) with worked examples
+- knowledge/feilu_patterns.md — extreme pacing, payoff density, fan-fiction culture, chapter economics
+- knowledge/jinjiang_patterns.md — prose quality, character depth, channel conventions, tag and warning culture, synopsis craft
+- CONTRIBUTING.md — repository layout, house style, templates for new knowledge bases and tools, commit conventions
+
+### Changed
+
+- tools/hook_generator.md — replaced the placeholder with the full hook generation procedure (8 hook types, forbidden endings, escalation ladder)
+- tools/retention_analyzer.md — replaced the placeholder with the weighted retention scoring model and failure diagnostics
+- SKILL.md — tools table now registers title_scorer, publishing_calendar and cliffhanger_continuity_checker
+- README.md — project structure tree, tools table and repository index aligned
+- ROADMAP.md — v2.2 moved from Planned to Released
+
+### Fixed
+
+- Removed six reachable-but-empty placeholder files (hook_generator, retention_analyzer, title_scorer, feilu_patterns, jinjiang_patterns, CONTRIBUTING)
+
 ## [v2.1.1] - 2026-09-08
 
 ### Added

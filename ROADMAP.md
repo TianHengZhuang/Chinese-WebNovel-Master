@@ -38,13 +38,18 @@ Chinese WebNovel Master evolution plan.
 - Writer & Editor agents bound to the story bible sync protocol
 - CHANGELOG.md introduced
 
+### v2.2.0 — Serialization Operations (2026-09-11)
+
+- tools/publishing_calendar.md: release cadence planning, backlog safety line, launch and break strategy, risk table
+- tools/cliffhanger_continuity_checker.md: hook debt ledger, hook variety grid, escalation audit
+- tools/title_scorer.md: five-dimension title scoring, now registered in SKILL.md
+- tools/hook_generator.md: implemented (was an empty placeholder)
+- tools/retention_analyzer.md: implemented (was an empty placeholder)
+- knowledge/feilu_patterns.md: implemented (was an empty placeholder)
+- knowledge/jinjiang_patterns.md: implemented (was an empty placeholder)
+- CONTRIBUTING.md: repository layout, house style, contribution templates
+
 ## Planned
-
-### v2.2 — Serialization Operations
-
-- Publishing calendar generation
-- Reader retention analysis across published chapters
-- Cliffhanger continuity checks for serialized releases
 
 ### v2.3 — Author Voice Layer
 
