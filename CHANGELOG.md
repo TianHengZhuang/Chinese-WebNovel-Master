@@ -2,6 +2,13 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.3.1] - 2026-09-11
+
+### Fixed
+
+- assets/Chinese WebNovel.png — re-encoded without OpenAI / C2PA provenance metadata
+- knowledge/title_patterns.md — replaced the example title「我掌控了人工智能」with「我掌控了签到系统」
+
 ## [v2.3.0] - 2026-09-11
 
 ### Added

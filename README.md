@@ -356,7 +356,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.3.0 (2026-09-11)
+Current: v2.3.1 (2026-09-11)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -365,6 +365,7 @@ Current: v2.3.0 (2026-09-11)
 * v2.1.1 — Expanded genre knowledge for historical fiction, urban supernatural, romance, and mythology
 * v2.2 — Serialization operations: publishing calendar, cliffhanger checker, title scorer
 * v2.3 — Author voice layer: style sampler, Style Profile sync in Writer/Editor
+* v2.3.1 — Asset hygiene: strip provenance metadata from the workflow diagram
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -381,6 +382,7 @@ MIT License
 Built for creators who want a repeatable Chinese web-fiction production workflow.
 
 ---
+> 版本标记 v2.3.1：资源清理（剥离流程图 provenance 元数据）（2026-09-11）
 > 版本标记 v2.3.0：作者语感层（style_sampler + Writer/Editor Style Profile 绑定）（2026-09-11）
 > 版本标记 v2.2.0：连载运营（publishing calendar / cliffhanger checker / title scorer）（2026-09-11）
 > 版本标记 v2.1.0：一致性层升级（story bible + 3 写作工具 + 4 题材知识库）（2026-09-08）
