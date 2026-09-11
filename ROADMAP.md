@@ -49,13 +49,14 @@ Chinese WebNovel Master evolution plan.
 - knowledge/jinjiang_patterns.md: implemented (was an empty placeholder)
 - CONTRIBUTING.md: repository layout, house style, contribution templates
 
+### v2.3.0 — Author Voice Layer (2026-09-11)
+
+- tools/style_sampler.md: surface + lexical fingerprints, narrative stance, Style Profile template, FLAT / DRIFT / TABOO / CLICHE / OVERCOPY flags
+- prompts/writer.md: Style Profile Sync (load, bind, self-check)
+- prompts/editor.md: Step 8 Style Compliance; AI detection prefers author fingerprint
+- SKILL.md: AI Style Removal honors profiles; tools table registers style_sampler
+
 ## Planned
-
-### v2.3 — Author Voice Layer
-
-- Style sampling: learn from an author's existing chapters
-- Custom style profiles (tone, sentence rhythm, taboo list)
-- AI-flavor removal strengthened with style fingerprints
 
 ### v2.4 — Submission Automation
 

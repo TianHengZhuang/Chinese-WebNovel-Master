@@ -178,6 +178,48 @@ CHEAT
 
 ---
 
+Step 8
+
+Check Style Compliance
+
+Reference:
+
+tools/style_sampler.md
+
+If a Style Profile exists, verify:
+
+Sentence length and short-punch ratio within tolerance
+
+Dialogue share within tolerance
+
+Signature openers present where expected
+
+Taboo list is clean
+
+Capped tics not exceeded
+
+AI-generic phrasing replaced by profile voice
+
+Flags to report:
+
+FLAT
+
+DRIFT
+
+TABOO
+
+CLICHE
+
+OVERCOPY
+
+If no Style Profile exists:
+
+Skip fingerprint scoring.
+
+Still run the AI Writing Detection section below.
+
+---
+
 ## Retention Analysis
 
 Score:
@@ -211,6 +253,8 @@ Over-explanation
 Mechanical narration
 
 Empty emotional statements
+
+When a Style Profile exists, prefer the author's real fingerprint over a generic rewrite.
 
 Rewrite naturally.
 

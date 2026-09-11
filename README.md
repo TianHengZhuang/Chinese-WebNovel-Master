@@ -159,7 +159,8 @@ Chinese-WebNovel-Master/
 │   ├── pacing_rhythm_map.md
 │   ├── character_arc_tracker.md
 │   ├── publishing_calendar.md
-│   └── cliffhanger_continuity_checker.md
+│   ├── cliffhanger_continuity_checker.md
+│   └── style_sampler.md
 
 ├── examples/
 │   ├── urban_system.md
@@ -224,6 +225,7 @@ Chinese-WebNovel-Master/
 | character_arc_tracker.md | Arc health flags |
 | publishing_calendar.md | Serialized release cadence and backlog planning |
 | cliffhanger_continuity_checker.md | Hook debt, variety and escalation audit |
+| style_sampler.md | Author voice fingerprints and style profiles |
 
 ---
 
@@ -280,6 +282,7 @@ Demonstrates:
 | [golden_three_reviewer.md](tools/golden_three_reviewer.md) | Audit the first three chapters |
 | [pacing_rhythm_map.md](tools/pacing_rhythm_map.md) | Map satisfaction density and rhythm |
 | [character_arc_tracker.md](tools/character_arc_tracker.md) | Track character arc health |
+| [style_sampler.md](tools/style_sampler.md) | Sample author voice into a Style Profile |
 
 ---
 
@@ -353,13 +356,15 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.1.1 (2026-09-08)
+Current: v2.3.0 (2026-09-11)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
 * v2.0 — Retention engine: automated evaluation and retention scoring
 * v2.1 — Consistency layer: story bible, 3 new writing tools, 4 genre knowledge bases
 * v2.1.1 — Expanded genre knowledge for historical fiction, urban supernatural, romance, and mythology
+* v2.2 — Serialization operations: publishing calendar, cliffhanger checker, title scorer
+* v2.3 — Author voice layer: style sampler, Style Profile sync in Writer/Editor
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -376,5 +381,7 @@ MIT License
 Built for creators who want a repeatable Chinese web-fiction production workflow.
 
 ---
+> 版本标记 v2.3.0：作者语感层（style_sampler + Writer/Editor Style Profile 绑定）（2026-09-11）
+> 版本标记 v2.2.0：连载运营（publishing calendar / cliffhanger checker / title scorer）（2026-09-11）
 > 版本标记 v2.1.0：一致性层升级（story bible + 3 写作工具 + 4 题材知识库）（2026-09-08）
 > 版本标记 v2.0.1：自动化协作流程验证（2026-09-04）

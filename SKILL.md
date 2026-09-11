@@ -350,6 +350,12 @@ Detect:
 - Over-explanation
 - Repetitive sentence structures
 
+When a Style Profile exists (tools/style_sampler.md):
+
+- Prefer the author's signature moves over a generic clean rewrite
+- Keep short-punch ratio, dialogue share, and taboo list binding
+- Flag TABOO / CLICHE / DRIFT instead of silently normalizing the voice
+
 Rewrite naturally.
 
 ---
@@ -369,6 +375,8 @@ Pacing
 Dialogue Quality
 
 Hook Quality
+
+Style Compliance (when a Style Profile exists)
 
 Output:
 
@@ -477,6 +485,7 @@ Invoke the matching tool when its condition is met:
 | tools/character_arc_tracker.md | At architecture stage, every 10 chapters |
 | tools/publishing_calendar.md | Before launch, before any planned break, every month |
 | tools/cliffhanger_continuity_checker.md | Every 10 chapters, before a batch release |
+| tools/style_sampler.md | Project start with sample chapters; when voice drifts; before continuation contracts |
 
 ---
 

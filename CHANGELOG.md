@@ -2,6 +2,20 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.3.0] - 2026-09-11
+
+### Added
+
+- tools/style_sampler.md — author voice sampling: surface fingerprints (sentence length, short-punch ratio, dialogue share, punctuation), lexical keep/cap/taboo lists, narrative stance, Style Profile template, FLAT / DRIFT / TABOO / CLICHE / OVERCOPY flags with default tolerances
+
+### Changed
+
+- prompts/writer.md — Style Profile Sync protocol: load before drafting, bind fingerprints while writing, self-check after drafting
+- prompts/editor.md — Step 8 Style Compliance against the profile; AI Writing Detection prefers author fingerprint over generic rewrite
+- SKILL.md — AI Style Removal section honors Style Profiles; tools table registers style_sampler
+- README.md — structure tree, tools tables, current version and version markers
+- ROADMAP.md — v2.3 moved from Planned to Released
+
 ## [v2.2.0] - 2026-09-11
 
 ### Added

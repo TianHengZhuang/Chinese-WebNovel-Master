@@ -343,6 +343,49 @@ Explain the change in the Continuity Log before writing further.
 
 ---
 
+## Style Profile Sync
+
+Reference:
+
+tools/style_sampler.md
+
+Before writing every chapter:
+
+Load the Style Profile if one exists.
+
+Verify:
+
+- POV and narrative stance match the profile
+- Sentence-length target and short-punch ratio are within tolerance
+- Signature openers are available; taboo list is empty in the draft plan
+
+While writing:
+
+Prefer the author's signature moves over generic narration.
+
+Respect caps on repeated tics.
+
+Never use a taboo phrase.
+
+After writing:
+
+Self-check fingerprints:
+
+- Avg sentence length vs profile
+- Short-punch ratio vs profile
+- Dialogue share vs profile
+- Taboo scan
+
+If the draft drifts:
+
+Rewrite before handing to Editor.
+
+If no Style Profile exists:
+
+Default to platform genre norms and ask Publisher whether sampling is required.
+
+---
+
 ## Retention Checklist
 
 Before output:
