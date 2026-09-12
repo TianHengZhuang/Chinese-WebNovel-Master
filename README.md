@@ -381,6 +381,12 @@ MIT License
 
 Built for creators who want a repeatable Chinese web-fiction production workflow.
 
+## Related projects
+
+- [mavplan](https://github.com/TianHengZhuang/mavplan) — UAV mission planning & training CLI
+- [mavplan-web](https://github.com/TianHengZhuang/mavplan-web) — browser console for mavplan
+- [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
+
 ---
 > 版本标记 v2.3.1：资源清理（剥离流程图 provenance 元数据）（2026-09-11）
 > 版本标记 v2.3.0：作者语感层（style_sampler + Writer/Editor Style Profile 绑定）（2026-09-11）
