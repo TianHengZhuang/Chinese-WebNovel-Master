@@ -193,6 +193,9 @@ Chinese-WebNovel-Master/
 | submit_qidian.md     | Qidian form fields, title/synopsis fit, review risks |
 | submit_tomato.md     | Tomato free-feed packaging and first-chapter bar  |
 | submit_jinjiang.md   | Jinjiang tags, warnings, pairing-honest synopsis  |
+| submit_feilu.md      | Feilu extreme pacing and early payoff bar        |
+| submit_qimao.md      | Qimao free-feed packaging and thumbnail cover    |
+| submit_zongheng.md   | Zongheng paid long-engine synopsis and cadence   |
 
 ### Writing Frameworks
 
@@ -362,7 +365,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.4.0 (2026-09-12)
+Current: v2.4.1 (2026-09-12)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -373,6 +376,7 @@ Current: v2.4.0 (2026-09-12)
 * v2.3 — Author voice layer: style sampler, Style Profile sync in Writer/Editor
 * v2.3.1 — Asset hygiene: strip provenance metadata from the workflow diagram
 * v2.4 — Submission automation: checklist gate + Qidian / Tomato / Jinjiang submit packs
+* v2.4.1 — Feilu / Qimao / Zongheng submit packs (six platforms total)
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -395,6 +399,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.4.1：飞卢 / 七猫 / 纵横投稿包（2026-09-12）
 > 版本标记 v2.4.0：投稿自动化（submission_checklist + 起点/番茄/晋江投稿包）（2026-09-12）
 > 版本标记 v2.3.1：资源清理（剥离流程图 provenance 元数据）（2026-09-11）
 > 版本标记 v2.3.0：作者语感层（style_sampler + Writer/Editor Style Profile 绑定）（2026-09-11）

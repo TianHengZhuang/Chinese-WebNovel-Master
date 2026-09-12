@@ -62,6 +62,11 @@ Chinese WebNovel Master evolution plan.
 - knowledge/submit_qidian.md / submit_tomato.md / submit_jinjiang.md: platform submit packs
 - SKILL.md and README register the checklist and submit packs
 
+### v2.4.1 — Submission packs continued (2026-09-12)
+
+- knowledge/submit_feilu.md / submit_qimao.md / submit_zongheng.md
+- checklist now points at six platform packs
+
 ## Planned
 
 ### v2.4.x — Submission Automation (remaining)

@@ -18,6 +18,15 @@ After title_scorer and golden_three_reviewer have already run.
 
 Pairs with tools/publishing_calendar.md for launch timing.
 
+Platform submit packs (form fields, title tone, first-chapter bar, review risks):
+
+- knowledge/submit_qidian.md
+- knowledge/submit_tomato.md
+- knowledge/submit_jinjiang.md
+- knowledge/submit_feilu.md
+- knowledge/submit_qimao.md
+- knowledge/submit_zongheng.md
+
 ---
 
 ## Gate Order

@@ -2,6 +2,19 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.4.1] - 2026-09-12
+
+### Added
+
+- knowledge/submit_feilu.md — Feilu extreme-pacing submit pack
+- knowledge/submit_qimao.md — Qimao free-feed submit pack
+- knowledge/submit_zongheng.md — Zongheng paid long-serialization submit pack
+
+### Changed
+
+- tools/submission_checklist.md — lists all six platform submit packs
+- README.md / ROADMAP.md — platform tables and version markers
+
 ## [v2.4.0] - 2026-09-12
 
 ### Added
