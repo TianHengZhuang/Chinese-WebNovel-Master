@@ -487,6 +487,7 @@ Invoke the matching tool when its condition is met:
 | tools/cliffhanger_continuity_checker.md | Every 10 chapters, before a batch release |
 | tools/style_sampler.md | Project start with sample chapters; when voice drifts; before continuation contracts |
 | tools/submission_checklist.md | Before any platform upload, after title and golden-three pass |
+| tools/launch_batch_reviewer.md | After golden three GO; review the full 3–10 chapter launch batch before upload |
 
 ---
 

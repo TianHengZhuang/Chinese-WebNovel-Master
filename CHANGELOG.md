@@ -2,6 +2,17 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.4.2] - 2026-09-12
+
+### Added
+
+- tools/launch_batch_reviewer.md — review the first 3–10 chapters as one batch: engine, hook chain, consistency, platform fit, style; READY / HOLD / RESTRUCTURE
+
+### Changed
+
+- SKILL.md — tools table registers launch_batch_reviewer
+- README.md / ROADMAP.md — structure, current version, v2.4.x remaining items
+
 ## [v2.4.1] - 2026-09-12
 
 ### Added

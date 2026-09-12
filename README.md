@@ -161,7 +161,8 @@ Chinese-WebNovel-Master/
 │   ├── publishing_calendar.md
 │   ├── cliffhanger_continuity_checker.md
 │   ├── style_sampler.md
-│   └── submission_checklist.md
+│   ├── submission_checklist.md
+│   └── launch_batch_reviewer.md
 
 ├── examples/
 │   ├── urban_system.md
@@ -234,6 +235,7 @@ Chinese-WebNovel-Master/
 | cliffhanger_continuity_checker.md | Hook debt, variety and escalation audit |
 | style_sampler.md | Author voice fingerprints and style profiles |
 | submission_checklist.md | Pre-upload gate, metadata pack, launch batch review |
+| launch_batch_reviewer.md | Score the 3–10 chapter launch batch (engine, hooks, consistency, platform, style) |
 
 ---
 
@@ -365,7 +367,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.4.1 (2026-09-12)
+Current: v2.4.2 (2026-09-12)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -377,6 +379,7 @@ Current: v2.4.1 (2026-09-12)
 * v2.3.1 — Asset hygiene: strip provenance metadata from the workflow diagram
 * v2.4 — Submission automation: checklist gate + Qidian / Tomato / Jinjiang submit packs
 * v2.4.1 — Feilu / Qimao / Zongheng submit packs (six platforms total)
+* v2.4.2 — Launch batch reviewer for the first 3–10 chapters
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -399,6 +402,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.4.2：首发批次审稿工具 launch_batch_reviewer（2026-09-12）
 > 版本标记 v2.4.1：飞卢 / 七猫 / 纵横投稿包（2026-09-12）
 > 版本标记 v2.4.0：投稿自动化（submission_checklist + 起点/番茄/晋江投稿包）（2026-09-12）
 > 版本标记 v2.3.1：资源清理（剥离流程图 provenance 元数据）（2026-09-11）

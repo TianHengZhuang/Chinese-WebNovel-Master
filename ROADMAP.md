@@ -67,12 +67,16 @@ Chinese WebNovel Master evolution plan.
 - knowledge/submit_feilu.md / submit_qimao.md / submit_zongheng.md
 - checklist now points at six platform packs
 
+### v2.4.2 — Launch batch reviewer (2026-09-12)
+
+- tools/launch_batch_reviewer.md: 5-pass batch audit and READY / HOLD / RESTRUCTURE score
+
 ## Planned
 
 ### v2.4.x — Submission Automation (remaining)
 
 - Metadata packs (title, tags, synopsis variants) for remaining platforms
-- Launch chapter batch (3-10 chapters) multi-chapter review workflow expansion
+- Deeper multi-chapter review artifacts (per-chapter fix lists generated from the batch score)
 
 ### v2.5 — Genre Expansion
 
