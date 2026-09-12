@@ -160,7 +160,8 @@ Chinese-WebNovel-Master/
 │   ├── character_arc_tracker.md
 │   ├── publishing_calendar.md
 │   ├── cliffhanger_continuity_checker.md
-│   └── style_sampler.md
+│   ├── style_sampler.md
+│   └── submission_checklist.md
 
 ├── examples/
 │   ├── urban_system.md
@@ -189,6 +190,9 @@ Chinese-WebNovel-Master/
 | hongxiu_patterns.md  | Hongxiu contemporary emotional fiction            |
 | 17k_patterns.md      | 17K all-genre stable serialization                |
 | tadu_patterns.md     | Tadu suspense and short-form quality              |
+| submit_qidian.md     | Qidian form fields, title/synopsis fit, review risks |
+| submit_tomato.md     | Tomato free-feed packaging and first-chapter bar  |
+| submit_jinjiang.md   | Jinjiang tags, warnings, pairing-honest synopsis  |
 
 ### Writing Frameworks
 
@@ -226,6 +230,7 @@ Chinese-WebNovel-Master/
 | publishing_calendar.md | Serialized release cadence and backlog planning |
 | cliffhanger_continuity_checker.md | Hook debt, variety and escalation audit |
 | style_sampler.md | Author voice fingerprints and style profiles |
+| submission_checklist.md | Pre-upload gate, metadata pack, launch batch review |
 
 ---
 
@@ -283,6 +288,7 @@ Demonstrates:
 | [pacing_rhythm_map.md](tools/pacing_rhythm_map.md) | Map satisfaction density and rhythm |
 | [character_arc_tracker.md](tools/character_arc_tracker.md) | Track character arc health |
 | [style_sampler.md](tools/style_sampler.md) | Sample author voice into a Style Profile |
+| [submission_checklist.md](tools/submission_checklist.md) | Gate every platform submission |
 
 ---
 
@@ -356,7 +362,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.3.1 (2026-09-11)
+Current: v2.4.0 (2026-09-12)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -366,6 +372,7 @@ Current: v2.3.1 (2026-09-11)
 * v2.2 — Serialization operations: publishing calendar, cliffhanger checker, title scorer
 * v2.3 — Author voice layer: style sampler, Style Profile sync in Writer/Editor
 * v2.3.1 — Asset hygiene: strip provenance metadata from the workflow diagram
+* v2.4 — Submission automation: checklist gate + Qidian / Tomato / Jinjiang submit packs
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -388,6 +395,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.4.0：投稿自动化（submission_checklist + 起点/番茄/晋江投稿包）（2026-09-12）
 > 版本标记 v2.3.1：资源清理（剥离流程图 provenance 元数据）（2026-09-11）
 > 版本标记 v2.3.0：作者语感层（style_sampler + Writer/Editor Style Profile 绑定）（2026-09-11）
 > 版本标记 v2.2.0：连载运营（publishing calendar / cliffhanger checker / title scorer）（2026-09-11）

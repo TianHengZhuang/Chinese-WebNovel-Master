@@ -2,6 +2,21 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.4.0] - 2026-09-12
+
+### Added
+
+- tools/submission_checklist.md — pre-upload gate (8 checks), metadata pack fields, synopsis formula, launch batch review, READY / HOLD / REWRITE verdict
+- knowledge/submit_qidian.md — Qidian form fields, title/synopsis fit, first-chapter bar, review risks
+- knowledge/submit_tomato.md — Tomato free-feed packaging, thumbnail cover brief, completion-rate implications
+- knowledge/submit_jinjiang.md — Jinjiang pairing-honest synopsis, tag order, content warnings
+
+### Changed
+
+- SKILL.md — tools table registers submission_checklist
+- README.md — structure tree, platform patterns, tools tables, current version and version markers
+- ROADMAP.md — v2.4 moved from Planned to Released
+
 ## [v2.3.1] - 2026-09-11
 
 ### Fixed

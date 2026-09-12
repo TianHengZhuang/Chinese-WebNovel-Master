@@ -56,19 +56,23 @@ Chinese WebNovel Master evolution plan.
 - prompts/editor.md: Step 8 Style Compliance; AI detection prefers author fingerprint
 - SKILL.md: AI Style Removal honors profiles; tools table registers style_sampler
 
+### v2.4.0 — Submission Automation (minimal slice, 2026-09-12)
+
+- tools/submission_checklist.md: pre-upload gate, metadata pack, launch batch review
+- knowledge/submit_qidian.md / submit_tomato.md / submit_jinjiang.md: platform submit packs
+- SKILL.md and README register the checklist and submit packs
+
 ## Planned
 
-### v2.4 — Submission Automation
+### v2.4.x — Submission Automation (remaining)
 
-- Platform-specific submission checklists
-- Metadata packs (title, tags, synopsis variants) per target platform
-- Launch chapter batch (3-10 chapters) review workflow
+- Metadata packs (title, tags, synopsis variants) for remaining platforms
+- Launch chapter batch (3-10 chapters) multi-chapter review workflow expansion
 
 ### v2.5 — Genre Expansion
 
-- Historical / dynasty fiction patterns
-- Urban supernatural patterns
 - Detective + era cross-genre patterns
+- Remaining niche genre packs
 
 ### Long-Term
 

@@ -486,6 +486,7 @@ Invoke the matching tool when its condition is met:
 | tools/publishing_calendar.md | Before launch, before any planned break, every month |
 | tools/cliffhanger_continuity_checker.md | Every 10 chapters, before a batch release |
 | tools/style_sampler.md | Project start with sample chapters; when voice drifts; before continuation contracts |
+| tools/submission_checklist.md | Before any platform upload, after title and golden-three pass |
 
 ---
 
