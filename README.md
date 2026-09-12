@@ -367,7 +367,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.4.2 (2026-09-12)
+Current: v2.4.3 (2026-09-12)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -380,6 +380,7 @@ Current: v2.4.2 (2026-09-12)
 * v2.4 — Submission automation: checklist gate + Qidian / Tomato / Jinjiang submit packs
 * v2.4.1 — Feilu / Qimao / Zongheng submit packs (six platforms total)
 * v2.4.2 — Launch batch reviewer for the first 3–10 chapters
+* v2.4.3 — Checklist cross-links the full batch reviewer
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -402,6 +403,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.4.3：投稿清单交叉引用完整批次审稿（2026-09-12）
 > 版本标记 v2.4.2：首发批次审稿工具 launch_batch_reviewer（2026-09-12）
 > 版本标记 v2.4.1：飞卢 / 七猫 / 纵横投稿包（2026-09-12）
 > 版本标记 v2.4.0：投稿自动化（submission_checklist + 起点/番茄/晋江投稿包）（2026-09-12）

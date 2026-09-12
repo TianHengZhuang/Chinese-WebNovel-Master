@@ -2,6 +2,12 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.4.3] - 2026-09-12
+
+### Fixed
+
+- tools/submission_checklist.md — Launch Batch Review now points at tools/launch_batch_reviewer.md instead of restating a thinner inline table
+
 ## [v2.4.2] - 2026-09-12
 
 ### Added

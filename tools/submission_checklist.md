@@ -75,6 +75,8 @@ Do not use abstract praise (精彩 / 震撼 / 不容错过).
 
 ## Launch Batch Review
 
+Run tools/launch_batch_reviewer.md on the full 3–10 chapter batch (not only the golden three).
+
 Minimum 3 chapters. Preferred 5-10.
 
 | Check | Pass Condition |
