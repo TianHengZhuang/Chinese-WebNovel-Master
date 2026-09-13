@@ -71,6 +71,15 @@ Chinese WebNovel Master evolution plan.
 
 - tools/launch_batch_reviewer.md: 5-pass batch audit and READY / HOLD / RESTRUCTURE score
 
+### v2.4.3 — Checklist cross-links the full batch reviewer (2026-09-12)
+
+- tools/submission_checklist.md points at tools/launch_batch_reviewer.md instead of a thinner inline table
+
+### v2.4.4 — Tools table completeness (2026-09-13)
+
+- README.md tools table registers all 12 tools
+- ROADMAP.md records the v2.4.1–v2.4.4 released line
+
 ## Planned
 
 ### v2.4.x — Submission Automation (remaining)

@@ -2,6 +2,16 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.4.4] - 2026-09-13
+
+### Fixed
+
+- README.md — the tools table listed 8 of the 12 tools; cliffhanger_continuity_checker, launch_batch_reviewer, title_scorer and publishing_calendar were missing and are now registered
+
+### Changed
+
+- ROADMAP.md — records the v2.4.1–v2.4.4 released line
+
 ## [v2.4.3] - 2026-09-12
 
 ### Fixed
