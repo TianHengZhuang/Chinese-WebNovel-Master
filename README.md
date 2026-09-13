@@ -288,8 +288,12 @@ Demonstrates:
 |------|-------------|
 | [hook_generator.md](tools/hook_generator.md) | Generate chapter-end hooks |
 | [retention_analyzer.md](tools/retention_analyzer.md) | Score retention of drafted chapters |
+| [cliffhanger_continuity_checker.md](tools/cliffhanger_continuity_checker.md) | Audit consecutive chapter endings for continuity, variety and hook debt |
 | [story_bible.md](tools/story_bible.md) | Maintain cross-chapter consistency |
 | [golden_three_reviewer.md](tools/golden_three_reviewer.md) | Audit the first three chapters |
+| [launch_batch_reviewer.md](tools/launch_batch_reviewer.md) | Review the first 3–10 chapters as one launch batch |
+| [title_scorer.md](tools/title_scorer.md) | Score candidate titles for click-through before publishing |
+| [publishing_calendar.md](tools/publishing_calendar.md) | Plan serialized releases and protect the update cadence |
 | [pacing_rhythm_map.md](tools/pacing_rhythm_map.md) | Map satisfaction density and rhythm |
 | [character_arc_tracker.md](tools/character_arc_tracker.md) | Track character arc health |
 | [style_sampler.md](tools/style_sampler.md) | Sample author voice into a Style Profile |
