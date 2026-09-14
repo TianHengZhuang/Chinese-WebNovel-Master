@@ -2,6 +2,17 @@
 
 All notable changes to Chinese WebNovel Master.
 
+## [v2.5.0] - 2026-09-14
+
+### Added
+
+- tools/blurb_synopsis_generator.md — platform listing pack: one-line pitch (≤20字), short blurb (≤80字), 150–300字 long synopsis (4-beat formula), 5–8 tags, title–blurb fit score; hand-off into submission checklist metadata
+- SKILL.md — tools table registers blurb_synopsis_generator
+
+### Changed
+
+- README.md — tools index mentions the listing-copy generator
+
 ## [v2.4.4] - 2026-09-13
 
 ### Fixed

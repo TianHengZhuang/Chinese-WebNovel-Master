@@ -4,6 +4,11 @@ Chinese WebNovel Master evolution plan.
 
 ## Released
 
+### v2.5.0 — Listing Copy Engine (2026-09-14)
+
+- tools/blurb_synopsis_generator.md: title variants → one-liner / short blurb / long synopsis / tags / fit score
+- Feeds tools/submission_checklist.md metadata without re-writing platform forms by hand
+
 ### v1.0 — Core Framework
 
 - Multi-agent workflow (Planner → Architect → Writer → Editor → Publisher)

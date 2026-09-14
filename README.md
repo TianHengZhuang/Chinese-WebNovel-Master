@@ -291,7 +291,7 @@ Demonstrates:
 | [cliffhanger_continuity_checker.md](tools/cliffhanger_continuity_checker.md) | Audit consecutive chapter endings for continuity, variety and hook debt |
 | [story_bible.md](tools/story_bible.md) | Maintain cross-chapter consistency |
 | [golden_three_reviewer.md](tools/golden_three_reviewer.md) | Audit the first three chapters |
-| [launch_batch_reviewer.md](tools/launch_batch_reviewer.md) | Review the first 3–10 chapters as one launch batch |
+| [launch_batch_reviewer.md](tools/blurb_synopsis_generator.md · tools/launch_batch_reviewer.md) | Review the first 3–10 chapters as one launch batch |
 | [title_scorer.md](tools/title_scorer.md) | Score candidate titles for click-through before publishing |
 | [publishing_calendar.md](tools/publishing_calendar.md) | Plan serialized releases and protect the update cadence |
 | [pacing_rhythm_map.md](tools/pacing_rhythm_map.md) | Map satisfaction density and rhythm |
