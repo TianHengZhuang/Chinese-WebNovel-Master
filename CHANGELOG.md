@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.5.1 (2026-09-18)
+
+### Added
+- tools/submission_checklist.md — Blurb backfill example (filled metadata table + hand-off checklist)
+- tools/blurb_synopsis_generator.md — points at the single backfill table; no parallel marketing drafts
 All notable changes to Chinese WebNovel Master.
 
 ## [v2.5.0] - 2026-09-14

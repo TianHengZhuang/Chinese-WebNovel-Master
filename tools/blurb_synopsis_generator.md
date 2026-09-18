@@ -75,3 +75,5 @@ If score ≤ 3, rewrite the weaker of the two before submission.
 
 Copy the winning variant into `tools/submission_checklist.md` metadata fields:  
 `title`, `one_liner`, `short_blurb`, `long_synopsis`, `tags`.
+
+See the **Blurb backfill example** table in `tools/submission_checklist.md` — fill that one table, then paste platform forms from it. Do not keep a second “marketing” draft.

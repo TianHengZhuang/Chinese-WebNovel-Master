@@ -57,6 +57,31 @@ Prepare these fields once. Reuse them in every platform form.
 | Cover brief | Protagonist pose + one power visual + title legible at thumbnail size |
 | Author note | One sentence pitch, no spoilers |
 
+### Blurb backfill example
+
+After `tools/blurb_synopsis_generator.md` picks a winner, copy the **same** pack into this checklist so platform forms stay consistent. Do not invent a second set of copy.
+
+```markdown
+## Metadata Pack (filled)
+
+| Field | Value |
+|-------|--------|
+| Title | 《长夜灯火》 |
+| one_liner | 灯火守夜人只能看见别人的死亡倒计时，除了自己的。 |
+| short_blurb | 他掌灯十年，只照别人的终点。直到铜灯映出自己的数字：七天。 |
+| long_synopsis | 偏远灯塔的守夜人陆迟，天生能看见生灵头顶的死亡倒计时。十年来他只旁观，从不插手。直到古城鼠疫爆发那夜，灯焰映出他自己的数字：七。七天之内，他必须在灯灭前找到续灯之人，否则全城灯火尽灭。 |
+| tags | 玄幻, 灯火, 倒计时, 群像, 救赎 |
+| Category | 玄幻 / 东方 |
+| Cover brief | 灯塔剪影 + 头顶「07」数字 + 书名字号可读 |
+| Author note | 一个只能看见别人死期的守夜人，只剩七天可活。 |
+```
+
+Hand-off checklist:
+
+- [ ] Winning blurb variant already recorded (fit score ≥ 4)
+- [ ] `title` / `one_liner` / `short_blurb` / `long_synopsis` / `tags` match this table
+- [ ] Platform form paste uses **these** fields only — no parallel drafts
+
 ---
 
 ## Synopsis Formula

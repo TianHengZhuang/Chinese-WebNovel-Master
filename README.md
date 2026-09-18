@@ -411,6 +411,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 ---
 > 版本标记 v2.4.4：README 工具表补全 12 个工具（2026-09-13）
 > 版本标记 v2.4.3：投稿清单交叉引用完整批次审稿（2026-09-12）
+> 版本标记 v2.5.1：submission_checklist 文案回填示例（2026-09-18）
 > 版本标记 v2.5.0：简介/文案生成器 blurb_synopsis_generator（2026-09-14）
 > 版本标记 v2.4.2：首发批次审稿工具 launch_batch_reviewer（2026-09-12）
 > 版本标记 v2.4.1：飞卢 / 七猫 / 纵横投稿包（2026-09-12）
