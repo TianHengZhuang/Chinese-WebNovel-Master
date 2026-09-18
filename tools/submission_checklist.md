@@ -41,6 +41,18 @@ Platform submit packs (form fields, title tone, first-chapter bar, review risks)
 | 6 | First chapter opens conflict within the first screen | Rewrite opening |
 | 7 | No platform-banned content in the launch batch | Sanitize |
 | 8 | Update plan: next 3 chapter dates on the calendar | Schedule first |
+| 9 | story_continuity_checker verdict is CLEAN or FIX-THEN-SUBMIT | Fix continuity |
+| 10 | platform_submit_pack generated for target platform | Generate pack |
+
+---
+
+## Platform submit pack
+
+After gates 1–9 pass, generate paste-ready sheets:
+
+- Tool: `tools/platform_submit_pack.md`
+- Output: `submit-pack/{qidian,tomato,jinjiang,...}.md`
+- Source of truth: the Metadata Pack table above (do not invent a second blurb)
 
 ---
 

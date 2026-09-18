@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.6.0 (2026-09-18)
+
+### Added
+- tools/story_continuity_checker.md — bible/name/power/timeline continuity gates
+- tools/platform_submit_pack.md — checklist metadata → per-platform paste sheets
+- submission_checklist gates 9–10 wired to the two tools
+
+
 ## v2.5.1 (2026-09-18)
 
 ### Added
