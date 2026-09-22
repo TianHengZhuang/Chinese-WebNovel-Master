@@ -18,6 +18,8 @@ Before the first public upload of a new work.
 
 Pairs with tools/cliffhanger_continuity_checker.md and tools/publishing_calendar.md.
 
+Hand-off: a HOLD or RESTRUCTURE verdict goes into tools/chapter_fix_list.md, which turns the findings below into per-chapter fix rows.
+
 ---
 
 ## Batch Inputs

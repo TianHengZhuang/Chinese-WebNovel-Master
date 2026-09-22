@@ -1,5 +1,17 @@
 # Changelog
 
+## v2.7.0 (2026-09-22)
+
+### Added
+- knowledge/submit_17k.md, submit_boluobao.md, submit_ciweimao.md, submit_tadu.md, submit_xiaoxiang.md, submit_hongxiu.md — submit packs for the remaining six platforms, each mapped to its platform pattern file (closes the v2.4.x "remaining platforms" item)
+- tools/chapter_fix_list.md — per-chapter fix lists generated from a launch batch score: BLOCKER / SHOULD-FIX / POLISH rows with evidence and re-check criteria (closes the v2.4.x "per-chapter fix lists" item)
+
+### Changed
+- tools/submission_checklist.md — platform pack list now covers all 12 platforms; gate 10 hands HOLD batches to chapter_fix_list
+- tools/launch_batch_reviewer.md — HOLD / RESTRUCTURE verdicts route into tools/chapter_fix_list.md
+- tools/platform_submit_pack.md — output layout and platform field map extended from 6 to 12 platforms
+- SKILL.md / README.md — tools and knowledge indexes register the six new packs, chapter_fix_list, story_continuity_checker and platform_submit_pack
+
 ## v2.6.0 (2026-09-18)
 
 ### Added

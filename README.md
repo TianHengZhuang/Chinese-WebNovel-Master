@@ -136,6 +136,7 @@ Chinese-WebNovel-Master/
 
 ├── knowledge/
 │   ├── Platform patterns (12): qidian, tomato, feilu, jinjiang, qimao, zongheng, ciweimao, boluobao, xiaoxiang, hongxiu, 17k, tadu
+│   ├── Submit packs (12): qidian, tomato, jinjiang, feilu, qimao, zongheng, 17k, boluobao, ciweimao, tadu, xiaoxiang, hongxiu
 │   ├── Writing frameworks: title_patterns, suspense_hooks, character_templates, power_system_templates
 │   ├── Genre patterns: genre_scifi, genre_suspense, genre_game, genre_era
 │   │   ├── genre_historical_patterns.md
@@ -163,7 +164,10 @@ Chinese-WebNovel-Master/
 │   ├── style_sampler.md
 │   ├── submission_checklist.md
 │   ├── blurb_synopsis_generator.md
-│   └── launch_batch_reviewer.md
+│   ├── launch_batch_reviewer.md
+│   ├── story_continuity_checker.md
+│   ├── platform_submit_pack.md
+│   └── chapter_fix_list.md
 
 ├── examples/
 │   ├── urban_system.md
@@ -198,6 +202,12 @@ Chinese-WebNovel-Master/
 | submit_feilu.md      | Feilu extreme pacing and early payoff bar        |
 | submit_qimao.md      | Qimao free-feed packaging and thumbnail cover    |
 | submit_zongheng.md   | Zongheng paid long-engine synopsis and cadence   |
+| submit_17k.md        | 17K all-genre title, synopsis and cadence fit    |
+| submit_boluobao.md   | Boluobao light-novel charm and CP chemistry      |
+| submit_ciweimao.md   | Ciweimao concept pitch and community tone        |
+| submit_tadu.md       | Tadu question-first blurb and twist discipline   |
+| submit_xiaoxiang.md  | Xiaoxiang female-agency stakes and arc payoffs   |
+| submit_hongxiu.md    | Hongxiu contemporary emotional realism           |
 
 ### Writing Frameworks
 
@@ -299,6 +309,9 @@ Demonstrates:
 | [character_arc_tracker.md](tools/character_arc_tracker.md) | Track character arc health |
 | [style_sampler.md](tools/style_sampler.md) | Sample author voice into a Style Profile |
 | [submission_checklist.md](tools/submission_checklist.md) | Gate every platform submission |
+| [story_continuity_checker.md](tools/story_continuity_checker.md) | Verify bible / name / power / timeline continuity before upload |
+| [platform_submit_pack.md](tools/platform_submit_pack.md) | Turn checklist metadata into per-platform paste sheets |
+| [chapter_fix_list.md](tools/chapter_fix_list.md) | Convert a batch score into per-chapter fix rows |
 
 ---
 
@@ -372,7 +385,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.4.4 (2026-09-13)
+Current: v2.7.0 (2026-09-22)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -387,6 +400,10 @@ Current: v2.4.4 (2026-09-13)
 * v2.4.2 — Launch batch reviewer for the first 3–10 chapters
 * v2.4.3 — Checklist cross-links the full batch reviewer
 * v2.4.4 — README tools table completes the 12-tool set
+* v2.5 — Listing copy engine: blurb_synopsis_generator
+* v2.5.1 — Checklist blurb backfill example and hand-off table
+* v2.6.0 — Continuity checker and platform submit pack; checklist gates 9-10
+* v2.7.0 — Remaining six submit packs and per-chapter fix lists (12 platforms covered)
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -409,6 +426,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.7.0：12 平台投稿包补全 + 逐章修复清单 chapter_fix_list（2026-09-22）
 > 版本标记 v2.4.4：README 工具表补全 12 个工具（2026-09-13）
 > 版本标记 v2.4.3：投稿清单交叉引用完整批次审稿（2026-09-12）
 > 版本标记 v2.5.1：submission_checklist 文案回填示例（2026-09-18）

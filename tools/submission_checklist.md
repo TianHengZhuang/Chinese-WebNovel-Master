@@ -26,6 +26,12 @@ Platform submit packs (form fields, title tone, first-chapter bar, review risks)
 - knowledge/submit_feilu.md
 - knowledge/submit_qimao.md
 - knowledge/submit_zongheng.md
+- knowledge/submit_17k.md
+- knowledge/submit_boluobao.md
+- knowledge/submit_ciweimao.md
+- knowledge/submit_tadu.md
+- knowledge/submit_xiaoxiang.md
+- knowledge/submit_hongxiu.md
 
 ---
 
@@ -51,7 +57,7 @@ Platform submit packs (form fields, title tone, first-chapter bar, review risks)
 After gates 1–9 pass, generate paste-ready sheets:
 
 - Tool: `tools/platform_submit_pack.md`
-- Output: `submit-pack/{qidian,tomato,jinjiang,...}.md`
+- Output: `submit-pack/{qidian,tomato,jinjiang,feilu,qimao,zongheng,17k,boluobao,ciweimao,tadu,xiaoxiang,hongxiu}.md`
 - Source of truth: the Metadata Pack table above (do not invent a second blurb)
 
 ---
@@ -122,6 +128,8 @@ Minimum 3 chapters. Preferred 5-10.
 | Continuity | Story bible updated after chapter 3 |
 | Pacing | No two consecutive low-density chapters |
 | Style | Style Profile fingerprints held if a profile exists |
+
+Verdict HOLD or RESTRUCTURE: do not rewrite the batch blind — convert the review into per-chapter edits with `tools/chapter_fix_list.md`, close every BLOCKER row, then re-run the batch review before returning to gate 10.
 
 ---
 

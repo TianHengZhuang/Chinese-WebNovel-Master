@@ -37,6 +37,12 @@ submit-pack/
   feilu.md
   qimao.md
   zongheng.md
+  17k.md
+  boluobao.md
+  ciweimao.md
+  tadu.md
+  xiaoxiang.md
+  hongxiu.md
 ```
 
 One file per platform. Same title/synopsis facts; only field mapping and tone notes differ.
@@ -85,6 +91,12 @@ One file per platform. Same title/synopsis facts; only field mapping and tone no
 | 飞卢 feilu | 硬门禁，先过 hard gates | 见 knowledge/submit_feilu.md |
 | 七猫 qimao | 移动端更短简介 | 见 knowledge/submit_qimao.md |
 | 纵横 zongheng | 先过 golden three | 见 knowledge/submit_zongheng.md |
+| 17K 17k | 平实清楚，题材一眼可辨 | 见 knowledge/submit_17k.md |
+| 菠萝包 boluobao | 氛围 + 关系向，短而有糖 | 见 knowledge/submit_boluobao.md |
+| 刺猬猫 ciweimao | 一句话可安利，社群众口吻 | 见 knowledge/submit_ciweimao.md |
+| 塔读 tadu | 首屏是一个问题，不剧透 | 见 knowledge/submit_tadu.md |
+| 潇湘 xiaoxiang | 女主处境 + 情感赌注 | 见 knowledge/submit_xiaoxiang.md |
+| 红袖 hongxiu | 现实生活质感，情绪真实 | 见 knowledge/submit_hongxiu.md |
 
 Always **copy** from the checklist table; only compress length if the platform sheet says to.
 

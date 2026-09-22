@@ -4,6 +4,23 @@ Chinese WebNovel Master evolution plan.
 
 ## Released
 
+### v2.7.0 — Submission Coverage Complete (2026-09-22)
+
+- knowledge/submit_17k.md / submit_boluobao.md / submit_ciweimao.md / submit_tadu.md / submit_xiaoxiang.md / submit_hongxiu.md: remaining six platform submit packs (all 12 platforms covered)
+- tools/chapter_fix_list.md: per-chapter fix lists generated from a launch batch score (BLOCKER / SHOULD-FIX / POLISH, evidence + re-check rows, exit criteria)
+- tools/submission_checklist.md: platform list covers 12 packs; HOLD batches route into chapter_fix_list
+- tools/launch_batch_reviewer.md: HOLD / RESTRUCTURE verdicts route into chapter_fix_list
+
+### v2.6.0 — Continuity & Pack Hand-off (2026-09-18)
+
+- tools/story_continuity_checker.md: bible / name / power / timeline continuity gates
+- tools/platform_submit_pack.md: checklist metadata → per-platform paste sheets
+- submission_checklist gates 9–10 wired to the two tools
+
+### v2.5.1 — Checklist Blurb Backfill (2026-09-18)
+
+- tools/submission_checklist.md: filled metadata example and hand-off checklist
+
 ### v2.5.0 — Listing Copy Engine (2026-09-14)
 
 - tools/blurb_synopsis_generator.md: title variants → one-liner / short blurb / long synopsis / tags / fit score
@@ -86,11 +103,6 @@ Chinese WebNovel Master evolution plan.
 - ROADMAP.md records the v2.4.1–v2.4.4 released line
 
 ## Planned
-
-### v2.4.x — Submission Automation (remaining)
-
-- Metadata packs (title, tags, synopsis variants) for remaining platforms
-- Deeper multi-chapter review artifacts (per-chapter fix lists generated from the batch score)
 
 ### v2.5 — Genre Expansion
 

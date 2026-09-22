@@ -489,6 +489,9 @@ Invoke the matching tool when its condition is met:
 | tools/submission_checklist.md | Before any platform upload, after title and golden-three pass |
 | tools/launch_batch_reviewer.md | After golden three GO; review the full 3–10 chapter launch batch before upload |
 | tools/blurb_synopsis_generator.md | After title shortlist; before submission checklist metadata is filled |
+| tools/platform_submit_pack.md | After checklist metadata is filled; before opening any platform upload form |
+| tools/story_continuity_checker.md | After chapter edits; before submission gates 9–10 |
+| tools/chapter_fix_list.md | After launch_batch_reviewer returns HOLD or RESTRUCTURE; before re-running the batch review |
 
 ---
 
