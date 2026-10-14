@@ -4,6 +4,12 @@ Chinese WebNovel Master evolution plan.
 
 ## Released
 
+### v2.8.0 — Genre Expansion: Detective & Era Crossover (2026-10-14)
+
+- knowledge/genre_detective_patterns.md: case architecture, fair-play contract, clue types, suspect pool math, interrogation rhythm, evidence-chain and procedure rules, power-advantage limits
+- knowledge/genre_era_crossover_patterns.md: era base + second genre engine, combination matrix, era escrow, first-payoff placement, texture budget, language rules, failure modes
+- README.md registers both packs in the genre index and project structure
+
 ### v2.7.0 — Submission Coverage Complete (2026-09-22)
 
 - knowledge/submit_17k.md / submit_boluobao.md / submit_ciweimao.md / submit_tadu.md / submit_xiaoxiang.md / submit_hongxiu.md: remaining six platform submit packs (all 12 platforms covered)
@@ -104,10 +110,9 @@ Chinese WebNovel Master evolution plan.
 
 ## Planned
 
-### v2.5 — Genre Expansion
+### Next Genre Packs
 
-- Detective + era cross-genre patterns
-- Remaining niche genre packs
+- Remaining niche genre packs (sports, esports, workplace, food)
 
 ### Long-Term
 

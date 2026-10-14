@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.8.0 (2026-10-14)
+
+### Added
+- knowledge/genre_detective_patterns.md — detective pack: case architecture (case / volume arc / series spine), three lines, fair-play contract, clue types, suspect pool math, interrogation rhythm, evidence-chain and procedure rules, power-advantage limits
+- knowledge/genre_era_crossover_patterns.md — era crossover pack: two-layer rule (era base constrains the engine), combination matrix, era escrow, first-payoff placement, texture budget, language rules, failure modes
+
+### Changed
+- README.md — genre pattern index, project structure and current version updated for both packs
+- ROADMAP.md — v2.8.0 recorded as released; the planned "Detective + era cross-genre patterns" item is closed
+
 ## v2.7.0 (2026-09-22)
 
 ### Added

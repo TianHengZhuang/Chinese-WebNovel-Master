@@ -142,7 +142,9 @@ Chinese-WebNovel-Master/
 │   │   ├── genre_historical_patterns.md
 │   │   ├── genre_urban_supernatural_patterns.md
 │   │   ├── genre_romance_patterns.md
-│   │   └── genre_mythology_patterns.md
+│   │   ├── genre_mythology_patterns.md
+│   │   ├── genre_detective_patterns.md
+│   │   └── genre_era_crossover_patterns.md
 
 ├── prompts/
 │   ├── planner.md
@@ -230,6 +232,8 @@ Chinese-WebNovel-Master/
 | genre_urban_supernatural_patterns.md | Urban system panels, 7 system types, progression ladder |
 | genre_romance_patterns.md | Romance relationship arcs, 8 sub-variants, emotional resonance |
 | genre_mythology_patterns.md | Mythological/cultivation world-building, power scales, sect politics |
+| genre_detective_patterns.md | Case architecture, fair-play contract, suspect pool math, procedure and power limits |
+| genre_era_crossover_patterns.md | Era base + second genre engine: two-layer rule, era escrow, texture budget |
 
 ### Tools
 
@@ -385,7 +389,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.7.0 (2026-09-22)
+Current: v2.8.0 (2026-10-14)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -404,6 +408,7 @@ Current: v2.7.0 (2026-09-22)
 * v2.5.1 — Checklist blurb backfill example and hand-off table
 * v2.6.0 — Continuity checker and platform submit pack; checklist gates 9-10
 * v2.7.0 — Remaining six submit packs and per-chapter fix lists (12 platforms covered)
+* v2.8.0 — Detective and era-crossover genre packs (closes the planned genre expansion)
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -426,6 +431,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.8.0：侦探题材包 + 年代交叉写法（2026-10-14）
 > 版本标记 v2.7.0：12 平台投稿包补全 + 逐章修复清单 chapter_fix_list（2026-09-22）
 > 版本标记 v2.4.4：README 工具表补全 12 个工具（2026-09-13）
 > 版本标记 v2.4.3：投稿清单交叉引用完整批次审稿（2026-09-12）
