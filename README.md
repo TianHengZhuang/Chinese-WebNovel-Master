@@ -144,7 +144,11 @@ Chinese-WebNovel-Master/
 │   │   ├── genre_romance_patterns.md
 │   │   ├── genre_mythology_patterns.md
 │   │   ├── genre_detective_patterns.md
-│   │   └── genre_era_crossover_patterns.md
+│   │   ├── genre_era_crossover_patterns.md
+│   │   ├── genre_sports_patterns.md
+│   │   ├── genre_esports_patterns.md
+│   │   ├── genre_workplace_patterns.md
+│   │   └── genre_food_patterns.md
 
 ├── prompts/
 │   ├── planner.md
@@ -234,6 +238,10 @@ Chinese-WebNovel-Master/
 | genre_mythology_patterns.md | Mythological/cultivation world-building, power scales, sect politics |
 | genre_detective_patterns.md | Case architecture, fair-play contract, suspect pool math, procedure and power limits |
 | genre_era_crossover_patterns.md | Era base + second genre engine: two-layer rule, era escrow, texture budget |
+| genre_sports_patterns.md | Competitive sports: match realism, golden-finger limits, rivalry economy |
+| genre_esports_patterns.md | Esports: game engine, meta/patch pressure, pro ecosystem and fandom |
+| genre_workplace_patterns.md | Workplace/career: industry credibility, power map, earned reversals |
+| genre_food_patterns.md | Food fiction: sensory engine, craft and ingredient limits, customer-reaction payoff |
 
 ### Tools
 
@@ -389,7 +397,7 @@ The goal is to create stories readers cannot stop reading.
 
 ## Roadmap
 
-Current: v2.8.0 (2026-10-14)
+Current: v2.9.0 (2026-10-21)
 
 * v1.0 — Core multi-agent workflow and knowledge base
 * v1.1 — Expanded platform knowledge and publishing workflows
@@ -408,7 +416,8 @@ Current: v2.8.0 (2026-10-14)
 * v2.5.1 — Checklist blurb backfill example and hand-off table
 * v2.6.0 — Continuity checker and platform submit pack; checklist gates 9-10
 * v2.7.0 — Remaining six submit packs and per-chapter fix lists (12 platforms covered)
-* v2.8.0 — Detective and era-crossover genre packs (closes the planned genre expansion)
+* v2.8.0 — Detective and era-crossover genre packs (closes the detective + era crossover item)
+* v2.9.0 — Niche genre packs: sports, esports, workplace, food (closes the Next Genre Packs item)
 
 See [ROADMAP.md](ROADMAP.md) for the full plan and [CHANGELOG.md](CHANGELOG.md) for release history.
 
@@ -431,6 +440,7 @@ Built for creators who want a repeatable Chinese web-fiction production workflow
 - [One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) — topic → presentation deck skill
 
 ---
+> 版本标记 v2.9.0：小众题材包（体育/电竞/职场/美食）（2026-10-21）
 > 版本标记 v2.8.0：侦探题材包 + 年代交叉写法（2026-10-14）
 > 版本标记 v2.7.0：12 平台投稿包补全 + 逐章修复清单 chapter_fix_list（2026-09-22）
 > 版本标记 v2.4.4：README 工具表补全 12 个工具（2026-09-13）

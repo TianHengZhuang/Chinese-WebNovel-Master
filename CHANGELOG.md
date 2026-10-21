@@ -1,5 +1,17 @@
 # Changelog
 
+## v2.9.0 (2026-10-21)
+
+### Added
+- knowledge/genre_sports_patterns.md — competitive sports pack: match realism, signature-skill + weakness, team/rivalry economy, golden-finger limits, failure modes
+- knowledge/genre_esports_patterns.md — esports pack: game engine, meta/patch/ban pressure, pro ecosystem and fandom, golden-finger limits, failure modes
+- knowledge/genre_workplace_patterns.md — workplace/career pack: industry credibility, power map, reversal economy, golden-finger limits, failure modes
+- knowledge/genre_food_patterns.md — food fiction pack: five-sense sensory engine, craft/ingredient limits, customer-reaction payoff, golden-finger limits, failure modes
+
+### Changed
+- README.md — genre pattern index, project structure, current version and roadmap updated for the four packs
+- ROADMAP.md — v2.9.0 recorded as released; the planned "Next Genre Packs" item is closed
+
 ## v2.8.0 (2026-10-14)
 
 ### Added

@@ -4,6 +4,14 @@ Chinese WebNovel Master evolution plan.
 
 ## Released
 
+### v2.9.0 — Niche Genre Packs: Sports / Esports / Workplace / Food (2026-10-21)
+
+- knowledge/genre_sports_patterns.md: competitive sports — match realism, signature-skill + weakness, team/rivalry economy, golden-finger limits, failure modes
+- knowledge/genre_esports_patterns.md: esports — game engine, meta/patch/ban pressure, pro ecosystem and fandom, golden-finger limits, failure modes
+- knowledge/genre_workplace_patterns.md: workplace/career — industry credibility, power map, reversal economy, golden-finger limits, failure modes
+- knowledge/genre_food_patterns.md: food fiction — five-sense sensory engine, craft/ingredient limits, customer-reaction payoff, golden-finger limits, failure modes
+- README.md registers all four packs in the genre index and project structure
+
 ### v2.8.0 — Genre Expansion: Detective & Era Crossover (2026-10-14)
 
 - knowledge/genre_detective_patterns.md: case architecture, fair-play contract, clue types, suspect pool math, interrogation rhythm, evidence-chain and procedure rules, power-advantage limits
@@ -109,10 +117,6 @@ Chinese WebNovel Master evolution plan.
 - ROADMAP.md records the v2.4.1–v2.4.4 released line
 
 ## Planned
-
-### Next Genre Packs
-
-- Remaining niche genre packs (sports, esports, workplace, food)
 
 ### Long-Term
 
